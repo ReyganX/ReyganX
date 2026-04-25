@@ -1,4 +1,4 @@
 
-![https://github-readme-stats.vercel.app/api?username=ReyganX&show_icons=true&include_all_commits=true&count_private=true]
+![Stats](https://github-readme-stats.vercel.app/api?username=reyganx&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=ReyganX]
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyganx&theme=transparent)
